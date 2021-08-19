@@ -25,6 +25,7 @@
 ---
 
 <h3 align="left">Last activity:</h3>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/AlexGyver/GyverControl/issues/5) in [AlexGyver/GyverControl](https://github.com/AlexGyver/GyverControl)
 2. ❗️ Opened issue [#5](https://github.com/AlexGyver/GyverControl/issues/5) in [AlexGyver/GyverControl](https://github.com/AlexGyver/GyverControl)

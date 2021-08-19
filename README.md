@@ -24,7 +24,8 @@
 
 ---
 
-<h3 align="left">Last activity:</h3>
+<details>
+<summary>:zap:Last activity:</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/AlexGyver/GyverControl/issues/5) in [AlexGyver/GyverControl](https://github.com/AlexGyver/GyverControl)
@@ -33,3 +34,5 @@
 4. ❗️ Closed issue [#7](https://github.com/DudkoMatt/translate-on-the-go/issues/7) in [DudkoMatt/translate-on-the-go](https://github.com/DudkoMatt/translate-on-the-go)
 5. 🗣 Commented on [#7](https://github.com/DudkoMatt/translate-on-the-go/issues/7) in [DudkoMatt/translate-on-the-go](https://github.com/DudkoMatt/translate-on-the-go)
 <!--END_SECTION:activity-->
+
+</details>

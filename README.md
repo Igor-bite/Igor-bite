@@ -41,4 +41,4 @@
 
 ### Spotify Now Playing
 
-[![Spotify](https://spotify-now-playing-eight-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/rpckbvcs1s2l439zs7ccwedvy)
+[![Spotify](https://igor-bite.vercel.app/api/spotify)](https://open.spotify.com/user/rpckbvcs1s2l439zs7ccwedvy)

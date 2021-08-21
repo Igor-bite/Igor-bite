@@ -1,7 +1,14 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Igor Klyuzhev</h1>
 <h3 align="center">A passionate mobile developer from Russia, Saint Petersburg</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=igor-bite&label=Profile%20views&color=0e75b6&style=flat" alt="igor-bite" /> </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=igor-bite&label=Profile%20views&color=70C845&style=flat" alt="igor-bite" />
+
+<img src="https://img.shields.io/github/followers/Igor-bite?style=social" alt="igor-bite" />
+
+<a href="https://igor-bite.github.io" target="blank">
+<img src="https://img.shields.io/badge/IgorKlyuzhev-WebSite-brightgreen" alt="igor_klyuzhev" /></a> 
+ </p>
 
 - 🔭 I’m currently studying in [ITMO University](https://itmo.ru/ru/)
 

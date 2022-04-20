@@ -43,9 +43,3 @@
 <!--END_SECTION:activity-->
 
 </details>
-
----
-
-### Spotify Now Playing
-
-[![Spotify](https://igor-bite.vercel.app/api/spotify)](https://open.spotify.com/user/rpckbvcs1s2l439zs7ccwedvy)

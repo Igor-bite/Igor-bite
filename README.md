@@ -35,11 +35,11 @@
 <summary>:zap:Last activity:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/AlexGyver/GyverControl/issues/5) in [AlexGyver/GyverControl](https://github.com/AlexGyver/GyverControl)
-2. ❗️ Opened issue [#5](https://github.com/AlexGyver/GyverControl/issues/5) in [AlexGyver/GyverControl](https://github.com/AlexGyver/GyverControl)
-3. 🎉 Merged PR [#15](https://github.com/DudkoMatt/translate-on-the-go/pull/15) in [DudkoMatt/translate-on-the-go](https://github.com/DudkoMatt/translate-on-the-go)
-4. ❗️ Closed issue [#7](https://github.com/DudkoMatt/translate-on-the-go/issues/7) in [DudkoMatt/translate-on-the-go](https://github.com/DudkoMatt/translate-on-the-go)
-5. 🗣 Commented on [#7](https://github.com/DudkoMatt/translate-on-the-go/issues/7) in [DudkoMatt/translate-on-the-go](https://github.com/DudkoMatt/translate-on-the-go)
+1. 🎉 Merged PR [#2](https://github.com/Igor-bite/ScheduleApp/pull/2) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+2. 💪 Opened PR [#2](https://github.com/Igor-bite/ScheduleApp/pull/2) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+3. 🎉 Merged PR [#1](https://github.com/Igor-bite/ScheduleApp/pull/1) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+4. 💪 Opened PR [#1](https://github.com/Igor-bite/ScheduleApp/pull/1) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+5. ❗️ Opened issue [#1007](https://github.com/AmruthPillai/Reactive-Resume/issues/1007) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 <!--END_SECTION:activity-->
 
 </details>

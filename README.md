@@ -35,11 +35,11 @@
 <summary>:zap:Last activity:</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Igor-bite/ScheduleApp/pull/2) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
-2. 💪 Opened PR [#2](https://github.com/Igor-bite/ScheduleApp/pull/2) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
-3. 🎉 Merged PR [#1](https://github.com/Igor-bite/ScheduleApp/pull/1) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
-4. 💪 Opened PR [#1](https://github.com/Igor-bite/ScheduleApp/pull/1) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
-5. ❗️ Opened issue [#1007](https://github.com/AmruthPillai/Reactive-Resume/issues/1007) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+1. 💪 Opened PR [#3](https://github.com/Igor-bite/ScheduleApp/pull/3) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+2. 🎉 Merged PR [#2](https://github.com/Igor-bite/ScheduleApp/pull/2) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+3. 💪 Opened PR [#2](https://github.com/Igor-bite/ScheduleApp/pull/2) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+4. 🎉 Merged PR [#1](https://github.com/Igor-bite/ScheduleApp/pull/1) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+5. 💪 Opened PR [#1](https://github.com/Igor-bite/ScheduleApp/pull/1) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
 <!--END_SECTION:activity-->
 
 </details>

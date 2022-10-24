@@ -35,11 +35,11 @@
 <summary>:zap:Last activity:</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Igor-bite/ScheduleApp/pull/5) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
-2. 🎉 Merged PR [#11](https://github.com/Igor-bite/avito-internship-ios-2022/pull/11) in [Igor-bite/avito-internship-ios-2022](https://github.com/Igor-bite/avito-internship-ios-2022)
-3. 💪 Opened PR [#11](https://github.com/Igor-bite/avito-internship-ios-2022/pull/11) in [Igor-bite/avito-internship-ios-2022](https://github.com/Igor-bite/avito-internship-ios-2022)
-4. 🎉 Merged PR [#10](https://github.com/Igor-bite/avito-internship-ios-2022/pull/10) in [Igor-bite/avito-internship-ios-2022](https://github.com/Igor-bite/avito-internship-ios-2022)
-5. 💪 Opened PR [#10](https://github.com/Igor-bite/avito-internship-ios-2022/pull/10) in [Igor-bite/avito-internship-ios-2022](https://github.com/Igor-bite/avito-internship-ios-2022)
+1. 💪 Opened PR [#7](https://github.com/Igor-bite/ScheduleApp/pull/7) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+2. 🎉 Merged PR [#6](https://github.com/Igor-bite/ScheduleApp/pull/6) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+3. 💪 Opened PR [#6](https://github.com/Igor-bite/ScheduleApp/pull/6) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+4. 🎉 Merged PR [#5](https://github.com/Igor-bite/ScheduleApp/pull/5) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+5. 💪 Opened PR [#5](https://github.com/Igor-bite/ScheduleApp/pull/5) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
 <!--END_SECTION:activity-->
 
 </details>

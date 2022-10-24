@@ -35,11 +35,11 @@
 <summary>:zap:Last activity:</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Igor-bite/avito-internship-ios-2022/pull/10) in [Igor-bite/avito-internship-ios-2022](https://github.com/Igor-bite/avito-internship-ios-2022)
-2. 🎉 Merged PR [#14](https://github.com/Igor-bite/ChatAppTinkoff/pull/14) in [Igor-bite/ChatAppTinkoff](https://github.com/Igor-bite/ChatAppTinkoff)
-3. 🎉 Merged PR [#4](https://github.com/Igor-bite/ScheduleApp/pull/4) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
-4. 💪 Opened PR [#4](https://github.com/Igor-bite/ScheduleApp/pull/4) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
-5. 🎉 Merged PR [#3](https://github.com/Igor-bite/ScheduleApp/pull/3) in [Igor-bite/ScheduleApp](https://github.com/Igor-bite/ScheduleApp)
+1. 🎉 Merged PR [#11](https://github.com/Igor-bite/avito-internship-ios-2022/pull/11) in [Igor-bite/avito-internship-ios-2022](https://github.com/Igor-bite/avito-internship-ios-2022)
+2. 💪 Opened PR [#11](https://github.com/Igor-bite/avito-internship-ios-2022/pull/11) in [Igor-bite/avito-internship-ios-2022](https://github.com/Igor-bite/avito-internship-ios-2022)
+3. 🎉 Merged PR [#10](https://github.com/Igor-bite/avito-internship-ios-2022/pull/10) in [Igor-bite/avito-internship-ios-2022](https://github.com/Igor-bite/avito-internship-ios-2022)
+4. 💪 Opened PR [#10](https://github.com/Igor-bite/avito-internship-ios-2022/pull/10) in [Igor-bite/avito-internship-ios-2022](https://github.com/Igor-bite/avito-internship-ios-2022)
+5. 🎉 Merged PR [#14](https://github.com/Igor-bite/ChatAppTinkoff/pull/14) in [Igor-bite/ChatAppTinkoff](https://github.com/Igor-bite/ChatAppTinkoff)
 <!--END_SECTION:activity-->
 
 </details>
